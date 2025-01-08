@@ -1,11 +1,5 @@
 import java.util.Scanner;
 
-/**
- * Created by IntelliJ IDEA.
- * User: WanBi (anhnb (anhnbt.it@gmail.com))
- * Date: 2025/01/08
- * Time: 19:38 PM
- */
 public class MinArray {
     public static void main(String[] args) {
 
